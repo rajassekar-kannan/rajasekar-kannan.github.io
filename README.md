@@ -1,11 +1,11 @@
 # Personal Portfolio 🔥
-> https://rajasekark54.github.io/
+> https://rajasekar.kannan.github.io/
 
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajasekark54/rajasekark54.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajasekark54.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajasekark54/)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajasekar-kannan/rajasekar-kannan.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajasekar-kannan.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajasekar-kannan/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 :star: Star me on GitHub — it helps!
